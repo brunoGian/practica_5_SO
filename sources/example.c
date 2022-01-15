@@ -8,7 +8,7 @@
 #define CICLOS 10
 
 char *pais[3]={"Peru","Bolvia","Colombia"};
-
+// rama de Bruno
 SEMAPHORE exmut;
 
 void *hilo1(void *arg)
